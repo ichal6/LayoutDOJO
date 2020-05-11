@@ -46,3 +46,7 @@
 	background-color: white;
 	color: #3095C8;
 }
+
+.content-head.is-center{
+	text-align: center;
+}
