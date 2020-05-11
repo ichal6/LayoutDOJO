@@ -47,6 +47,18 @@
 	color: #3095C8;
 }
 
-.content-head.is-center{
+.is-center{
 	text-align: center;
+}
+
+.footer.l-box{
+	width: 100%;
+	height: 45px;
+	color: grey;
+	background-color: black;
+	position: fixed;
+	bottom: 0px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
 }
